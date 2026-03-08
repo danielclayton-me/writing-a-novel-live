@@ -24,7 +24,7 @@ A work of literary fiction exploring attention, awareness, and what it means to 
 
 ## the project
 
-Each writing session is a commit. Each commit is timestamped proof that the work happened. No hiding, no polishing before publishing — just the raw accumulation of a novel being made.
+Each writing session is a commit. Each commit is timestamped proof that the work happened. 
 
 The writing app itself is also built in public. The tool and the work co-evolve.
 
@@ -36,8 +36,6 @@ The writing app itself is also built in public. The tool and the work co-evolve.
 chapters/          — the novel, one .md file per chapter
 NOTES.md           — session notes, ideas, fragments
 README.md          — this file
-server.js          — local writing environment backend
-index.html         — the writing interface
 ```
 
 ---
@@ -46,6 +44,8 @@ index.html         — the writing interface
 
 Sessions are streamed live on YouTube.  
 Every session begins with a timer and ends with a commit.
+
+https://www.youtube.com/@DanielClaytonCoherence
 
 ---
 
